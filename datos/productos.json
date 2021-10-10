@@ -1,0 +1,23 @@
+[
+  {
+    "titulo":"Producto 1",
+    "descipcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1750,
+    "img":"https://via.placeholder.com/250",
+    "id":1
+  },
+  {
+    "titulo":"Producto 2",
+    "descipcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1500,
+    "img":"https://via.placeholder.com/250",
+    "id":2
+  },
+  {
+    "titulo":"Producto 3",
+    "descipcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://via.placeholder.com/250",
+    "id":3
+  }
+]
