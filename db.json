@@ -14,56 +14,56 @@
     "title":"Producto 1",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1750,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   },
   {
     "id":2,
     "title":"Producto 2",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1500,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   },
   {
     "id":3,
     "title":"Producto 3",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   },
   {
     "id":4,
     "title":"Producto 4",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   },
   {
     "id":5,
     "title":"Producto 5",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   },
   {
     "id":6,
     "title":"Producto 6",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   },
   {
     "id":7,
     "title":"Producto 7",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   },
   {
-    "id":7,
-    "title":"Producto 7",
+    "id":8,
+    "title":"Producto 8",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/250"
+    "img":"https://via.placeholder.com/500"
   }
 ]
 }
