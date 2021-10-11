@@ -29,6 +29,41 @@
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
     "img":"https://via.placeholder.com/250"
+  },
+  {
+    "id":4,
+    "title":"Producto 4",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://via.placeholder.com/250"
+  },
+  {
+    "id":5,
+    "title":"Producto 5",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://via.placeholder.com/250"
+  },
+  {
+    "id":6,
+    "title":"Producto 6",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://via.placeholder.com/250"
+  },
+  {
+    "id":7,
+    "title":"Producto 7",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://via.placeholder.com/250"
+  },
+  {
+    "id":7,
+    "title":"Producto 7",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://via.placeholder.com/250"
   }
 ]
 }
