@@ -64,6 +64,34 @@
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
     "img":"https://i.imgur.com/6zbcgzf.jpg"
+  },
+  {
+    "id":9,
+    "title":"Mikey - Tokyo Revengers",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://i.imgur.com/utVor5J.jpg"
+  },
+  {
+    "id":10,
+    "title":"Sanemi - Kimetsu no Yaiba",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://i.imgur.com/i6eQVK3.jpg"
+  },
+  {
+    "id":11,
+    "title":"Gojo Satoru - Jujutsu Kaisen",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://i.imgur.com/YF7Dtk5.jpg"
+  },
+  {
+    "id":12,
+    "title":"Mikasa - Shingeki no Kyojin",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "precio":1000,
+    "img":"https://i.imgur.com/hWVrFRv.jpg"
   }
 ]
 }
