@@ -11,59 +11,59 @@
   "productos":[
   {
     "id":1,
-    "title":"Producto 1",
+    "title":"Senju - Tokyo Revengers",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1750,
     "img":"https://via.placeholder.com/500"
   },
   {
     "id":2,
-    "title":"Producto 2",
+    "title":"Makima - Chainsaw Man",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1500,
-    "img":"https://via.placeholder.com/500"
+    "img":"https://i.imgur.com/kHfNylw.jpg"
   },
   {
     "id":3,
-    "title":"Producto 3",
+    "title":"Maki - Jujutsu Kaisen",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/500"
+    "img":"https://i.imgur.com/vvBp0oA.jpg"
   },
   {
     "id":4,
-    "title":"Producto 4",
+    "title":"Denji - Chainsaw Man",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/500"
+    "img":"https://i.imgur.com/wNk4yDm.jpg"
   },
   {
     "id":5,
-    "title":"Producto 5",
+    "title":"Rengoku - Kimetsu no Yaiba",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/500"
+    "img":"https://i.imgur.com/xRthSl2.jpg"
   },
   {
     "id":6,
-    "title":"Producto 6",
+    "title":"Nobara - Jujutsu Kaisen",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/500"
+    "img":"https://i.imgur.com/MQUzzvj.jpg"
   },
   {
     "id":7,
-    "title":"Producto 7",
+    "title":"Dabi - Boku no Hero",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/500"
+    "img":"https://i.imgur.com/U8SfZjL.jpg"
   },
   {
     "id":8,
-    "title":"Producto 8",
+    "title":"Levi - Shingeki no Kyojin",
     "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "precio":1000,
-    "img":"https://via.placeholder.com/500"
+    "img":"https://i.imgur.com/6zbcgzf.jpg"
   }
 ]
 }
